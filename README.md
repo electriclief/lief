@@ -72,7 +72,7 @@ DONE!
 A picture is worth a thousand words:
 [See It Work](http://leafdriving.kissr.com/) ...And then resize the screen.
 
-just add the three files to your project (anywhre you like - but all in same folder - I used root)
+just add the three files to your project (anywhere you like - but all in same folder - I used root)
 
 FindElementsWithAttrStart.ts
 lief.layout.component.ts
