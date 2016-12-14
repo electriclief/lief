@@ -111,15 +111,16 @@ export class AppModule { }
 
 and you are ready to go.
 
-This Project is in stage Alpha 1.0 (Lots of changes in mind.....)
+This Project is in stage Alpha 1.0 Lots of changes in mind.....
+
 USE AT OWN RISK!!!!!
-- [x] Finish ultra basic version for Angular 2 (Dec 14/2016)
+
+- [x] Finish ultra basic version for Angular 2 Dec 14/2016
 - [ ] Add Observeable handler to pass object with all window co-ordinates
 - [ ] Finish ultra basic version for pure javascript
-- [ ] implement margins - (currently defaluted to 4px)
-- [ ] add \<div min="10px" max="20%"\> min and max limiters
-- [ ] implement grab-bars - to optionally resize only "two" frames
-      optionally hidden
-- [ ] multiple layouts - with handler (when screen < size -> use this layout instead)
-- [ ] collapseable grab-bars (shown in pop-out location)
-- [ ] customizable drag bars (to your own image spec)
+- [ ] implement margins  currently defaluted to 4px
+- [ ] add div min 10px max=20px min and max limiters
+- [ ] implement grab-bars optionally hidden to optionally resize only two frames
+- [ ] multiple layouts  with handler when screen  size  use this layout instead
+- [ ] collapseable grab-bars shown in pop-out location
+- [ ] customizable drag bars to your own image spec
