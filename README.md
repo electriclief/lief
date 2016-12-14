@@ -1,4 +1,6 @@
+#Angular 2 Layout Manager
 
+####Do layouts like this keep you up at night?
 ```
 | 120px |     (100% left)            | 120px |
 
@@ -22,7 +24,7 @@
   
 |80px|  20%   |            80%               |
 ```
-
+lief to the rescue!
 
 ```
 @Component({
@@ -64,3 +66,7 @@
 })
 export class AppComponent {}
 ```
+
+DONE!
+
+A picture is worth a thousand words:
