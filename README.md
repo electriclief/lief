@@ -71,3 +71,39 @@ DONE!
 
 A picture is worth a thousand words:
 [See It Work](http://leafdriving.kissr.com/)
+
+just add the three files to your project (anywhre you like)
+register them with app.module.ts:
+```
+import { BrowserModule } from '@angular/platform-browser';
+import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+import { HttpModule } from '@angular/http';
+
+import { AppComponent } from './app.component';
+
+import { LiefLayoutClass } from './lief.layout.component';                //// add this line
+import { Elements_With_Start_Class } from './FindElementsWithAttrStart';  //// add this line
+
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    LiefLayoutClass,                                ///add this line
+    Elements_With_Start_Class,                      ///add this line
+  ],
+  imports: [
+    BrowserModule,
+    FormsModule,
+    HttpModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+```
+
+and you are ready to go.
+
+
