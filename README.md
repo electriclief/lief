@@ -73,6 +73,11 @@ A picture is worth a thousand words:
 [See It Work](http://leafdriving.kissr.com/)
 
 just add the three files to your project (anywhre you like)
+
+FindElementsWithAttrStart.ts
+lief.layout.component.ts
+lief.layout.factory.ts
+
 register them with app.module.ts:
 ```
 import { BrowserModule } from '@angular/platform-browser';
@@ -106,4 +111,5 @@ export class AppModule { }
 
 and you are ready to go.
 
-
+This Project is in stage Alpha 1.0 (Lots of changes in mind.....)
+USE AT OWN RISK!!!!!
