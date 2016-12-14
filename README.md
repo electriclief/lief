@@ -72,7 +72,7 @@ DONE!
 A picture is worth a thousand words:
 [See It Work](http://leafdriving.kissr.com/)
 
-just add the three files to your project (anywhre you like)
+just add the three files to your project (anywhre you like - but all in same folder - I used root)
 
 FindElementsWithAttrStart.ts
 lief.layout.component.ts
