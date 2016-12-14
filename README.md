@@ -70,7 +70,7 @@ export class AppComponent {}
 DONE!
 
 A picture is worth a thousand words:
-[See It Work](http://leafdriving.kissr.com/)
+[See It Work](http://leafdriving.kissr.com/) ...And then resize the screen.
 
 just add the three files to your project (anywhre you like - but all in same folder - I used root)
 
