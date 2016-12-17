@@ -1,4 +1,4 @@
-#Angular 2 Layout Manager
+#Angular 2 Layout Manager (Component)
 
 ####Do layouts like this keep you up at night?
 ```
